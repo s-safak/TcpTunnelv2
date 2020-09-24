@@ -1,0 +1,19 @@
+﻿Build started 30.10.2012 13:59:15.
+     1>Project "H:\_Source\tcptunnel2\tcptunnel2\tcptunnel2.vcxproj" on node 2 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MT /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\tcptunnel2.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MT /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\tcptunnel2.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt install.cpp ntservices.cpp remove.cpp tcptunnel2.cpp
+         tcptunnel2.cpp
+     1>h:\_source\tcptunnel2\tcptunnel2\tcptunnel.h(2): fatal error C1083: Cannot open include file: 'iostream.h': No such file or directory
+         remove.cpp
+     1>h:\_source\tcptunnel2\tcptunnel2\remove.cpp(3): fatal error C1083: Cannot open include file: 'iostream.h': No such file or directory
+         ntservices.cpp
+     1>h:\_source\tcptunnel2\tcptunnel2\ntservices.cpp(4): fatal error C1083: Cannot open include file: 'iostream.h': No such file or directory
+         install.cpp
+     1>h:\_source\tcptunnel2\tcptunnel2\install.cpp(5): fatal error C1083: Cannot open include file: 'iostream.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "H:\_Source\tcptunnel2\tcptunnel2\tcptunnel2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.26

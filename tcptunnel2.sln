@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tcptunnel2", "tcptunnel2.vcxproj", "{BAE40C90-6F75-EDFC-E0CA-5144E500D507}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tcptunnel4win", "tcptunnel4win\tcptunnel4win.vcxproj", "{0B2F7388-27A6-A035-7992-C594438174F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE40C90-6F75-EDFC-E0CA-5144E500D507}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAE40C90-6F75-EDFC-E0CA-5144E500D507}.Debug|Win32.Build.0 = Debug|Win32
+		{BAE40C90-6F75-EDFC-E0CA-5144E500D507}.Release|Win32.ActiveCfg = Release|Win32
+		{BAE40C90-6F75-EDFC-E0CA-5144E500D507}.Release|Win32.Build.0 = Release|Win32
+		{BAE40C90-6F75-EDFC-E0CA-5144E500D507}.Template|Win32.ActiveCfg = Release|Win32
+		{BAE40C90-6F75-EDFC-E0CA-5144E500D507}.Template|Win32.Build.0 = Release|Win32
+		{0B2F7388-27A6-A035-7992-C594438174F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B2F7388-27A6-A035-7992-C594438174F5}.Debug|Win32.Build.0 = Debug|Win32
+		{0B2F7388-27A6-A035-7992-C594438174F5}.Release|Win32.ActiveCfg = Release|Win32
+		{0B2F7388-27A6-A035-7992-C594438174F5}.Release|Win32.Build.0 = Release|Win32
+		{0B2F7388-27A6-A035-7992-C594438174F5}.Template|Win32.ActiveCfg = Template|Win32
+		{0B2F7388-27A6-A035-7992-C594438174F5}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
